@@ -12,7 +12,7 @@ This is a CRUD app built with PHP and MySQL.
 ## Installation
 
 - Clone the repository to AMPPS or XAMPP root folder
-- Import ".sql" script into local SQL server and create a database
+- Import "thirdSprint.sql" script into local SQL server and create a database
 - Open the path where you can launch php interpreter, e.g. http://localhost/thirdsprint
 
 ## Author
