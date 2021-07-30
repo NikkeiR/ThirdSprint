@@ -63,7 +63,7 @@ final class Versions
   'symfony/string' => 'v5.3.3@bd53358e3eccec6a670b5f33ab680d8dbe1d4ae1',
   'symfony/var-exporter' => 'v5.3.4@b7898a65fc91e7c41de7a88c7db9aee9c0d432f0',
   'symfony/var-dumper' => 'v5.3.4@a895407f7cf55da42aa1480935d707684b690bfc',
-  'rolas/third-sprint' => '1.0.0+no-version-set@',
+  'rolas/third-sprint' => 'dev-master@dd9890f0b9a928a32730389e78fffcf47c991f64',
 );
 
     private function __construct()
