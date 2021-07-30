@@ -1,0 +1,22 @@
+{
+    "name": "rolas/third-sprint",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Models\\": "src/models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NikkeiR",
+            "email": "urnikis.r@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.9",
+        "symfony/cache": "^5.3"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
